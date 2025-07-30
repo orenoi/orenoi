@@ -1,6 +1,6 @@
 <h1 align="center">Yokoso! 👋 <sup>[happy]</sup></h1>
 <p align="center">
-  Welcome to <b>orenoitami</b>’s cozy corner of code & anime!<br><br>
+  Welcome to <b>orenoi</b>’s cozy corner of code & anime!<br><br>
   <i>Kira-kira ✨ [yummy] &nbsp;|&nbsp; Doki-doki 💓 [funnyface] &nbsp;|&nbsp; Mochi-mochi 🤤 [drool] &nbsp;|&nbsp; Puyo-puyo 😊 [smile] &nbsp;|&nbsp; Waku-waku 💖 [lovely] &nbsp;|&nbsp; Washoi! 😳 [flushed]</i><br><br>
   🎮 Casual anime lover who codes for fun — mostly Go & Python 🐍🐹<br>
   🐧 Arch Linux + Hyprland user (with occasional KDE vibes) 💜
@@ -37,5 +37,5 @@
 ---
 
 <p align="center">
-  <img src="assets/waguri.png" alt="Profile views" width="200"/>
+  <img src="assets/waguri.png" width="200"/>
 </p>
