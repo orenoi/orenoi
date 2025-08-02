@@ -1,10 +1,10 @@
 <h1 align="center">Yokoso! 👋 <sup>[happy]</sup></h1>
-<p align="center">
-  Welcome to <b>orenoi</b>’s cozy corner of code & anime!<br><br>
+<div align="center">
+  Welcome to <b>orenoi</b>’s cozy corner of code & anime!<br><br>  
   <i>Kira-kira ✨ [yummy] &nbsp;|&nbsp; Doki-doki 💓 [funnyface] &nbsp;|&nbsp; Mochi-mochi 🤤 [drool] &nbsp;|&nbsp; Puyo-puyo 😊 [smile] &nbsp;|&nbsp; Waku-waku 💖 [lovely] &nbsp;|&nbsp; Washoi! 😳 [flushed]</i><br><br>
   🎮 Casual anime lover who codes for fun — mostly Go & Python 🐍🐹<br>
   🐧 Arch Linux + Hyprland user (with occasional KDE vibes) 💜
-</p>
+</div>
 
 ---
 
@@ -15,6 +15,8 @@
 - 🎨 Huge fan of terminal themes, clean setups, and all things anime  
 - 📚 Learning at my own pace — mostly for fun!  
 - 🍜 When not coding, you’ll find me binge-watching anime (slice of life & CGDCT fan)  
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1401096226753220703?hideSpotify=true&hideActivity=true&animatedDecoration=false&animated=false&hideDecoration=true&borderRadius=50px)](https://discord.com/users/1401096226753220703)
 
 ---
 
@@ -35,7 +37,6 @@
 > “I code only when the mood hits me — otherwise, anime and lo-fi beats keep me company.” 🎧
 
 ---
-
 <p align="center">
   <img src="assets/waguri.png" width="200"/>
 </p>
